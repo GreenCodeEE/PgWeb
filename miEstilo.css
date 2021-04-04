@@ -1,0 +1,15 @@
+/*Comentario css*/
+body{
+    background-color: rgb(226, 55, 135);
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+h1{
+    background-color:rgb(238, 165, 199)
+}
+img{
+    height: 50%;
+    width: 50%;
+}
